@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>RainhaDaPaz &#8211; Rainha da Paz</title>
-	<atom:link href="/author/rainhadapaz/feed/" rel="self" type="application/rss+xml" />
+	<title>Comunidades &#8211; Rainha da Paz</title>
+	<atom:link href="/category/comunidades/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Secretaria Online da Área Pastoral Nossa Senhora Rainha da Paz</description>
 	<lastBuildDate>Fri, 01 Apr 2022 22:19:35 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-logo_pascom-1-32x32.jpeg</url>
-	<title>RainhaDaPaz &#8211; Rainha da Paz</title>
+	<title>Comunidades &#8211; Rainha da Paz</title>
 	<link></link>
 	<width>32</width>
 	<height>32</height>
