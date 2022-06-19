@@ -12,14 +12,87 @@
 	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Só mais um site WordPress</description>
-	<lastBuildDate>Fri, 22 Apr 2022 16:40:20 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 May 2022 16:10:24 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
+		<title>Nossas Comunidades</title>
+		<link>/index.php/2022/05/20/nossas-comunidades/</link>
+		
+		<dc:creator><![CDATA[ebw]]></dc:creator>
+		<pubDate>Fri, 20 May 2022 15:08:21 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">/?p=298</guid>
+
+					<description><![CDATA[Conheça nossas comunidades e nossos horários de celebrações!]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img width="580" height="896" src="/wp-content/uploads/2022/05/Rainha_da_Paz.jpg" alt="" class="wp-image-289 size-full" srcset="/wp-content/uploads/2022/05/Rainha_da_Paz.jpg 580w, /wp-content/uploads/2022/05/Rainha_da_Paz-194x300.jpg 194w" sizes="(max-width: 580px) 100vw, 580px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-6240f5d2"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><span class="uagb-ifb-title-prefix">Matriz</span><h3 class="uagb-ifb-title"><strong>Nossa Senhora Rainha da Paz</strong></h3></div><div class="uagb-ifb-separator-parent"><div class="uagb-ifb-separator"></div></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Missas:<br>Endereço:</p></div></div></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2022/04/nossa_senhora_de_fatima-1024x1024.jpg" alt="" class="wp-image-49 size-full" srcset="/wp-content/uploads/2022/04/nossa_senhora_de_fatima-1024x1024.jpg 1024w, /wp-content/uploads/2022/04/nossa_senhora_de_fatima-300x300.jpg 300w, /wp-content/uploads/2022/04/nossa_senhora_de_fatima-150x150.jpg 150w, /wp-content/uploads/2022/04/nossa_senhora_de_fatima-768x768.jpg 768w, /wp-content/uploads/2022/04/nossa_senhora_de_fatima.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-1ea527d3"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><span class="uagb-ifb-title-prefix">Comunidade</span><h3 class="uagb-ifb-title"><strong>Nossa Senhora de Fatima</strong></h3></div><div class="uagb-ifb-separator-parent"><div class="uagb-ifb-separator"></div></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Missas:<br>Endereço:</p></div></div></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2022/04/sao_jose-1024x1024.jpg" alt="" class="wp-image-56 size-full" srcset="/wp-content/uploads/2022/04/sao_jose-1024x1024.jpg 1024w, /wp-content/uploads/2022/04/sao_jose-300x300.jpg 300w, /wp-content/uploads/2022/04/sao_jose-150x150.jpg 150w, /wp-content/uploads/2022/04/sao_jose-768x768.jpg 768w, /wp-content/uploads/2022/04/sao_jose.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-167ac392"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><span class="uagb-ifb-title-prefix">Comunidade</span><h3 class="uagb-ifb-title"><strong>São José</strong></h3></div><div class="uagb-ifb-separator-parent"><div class="uagb-ifb-separator"></div></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Missas:<br>Endereço:</p></div></div></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2022/04/sao_pedro_e_sao_paulo-1024x1024.jpg" alt="" class="wp-image-57 size-full" srcset="/wp-content/uploads/2022/04/sao_pedro_e_sao_paulo-1024x1024.jpg 1024w, /wp-content/uploads/2022/04/sao_pedro_e_sao_paulo-300x300.jpg 300w, /wp-content/uploads/2022/04/sao_pedro_e_sao_paulo-150x150.jpg 150w, /wp-content/uploads/2022/04/sao_pedro_e_sao_paulo-768x768.jpg 768w, /wp-content/uploads/2022/04/sao_pedro_e_sao_paulo.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-dc4fbaaa"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><span class="uagb-ifb-title-prefix">Comunidade</span><h3 class="uagb-ifb-title"><strong>São Pedro e São Paulo</strong></h3></div><div class="uagb-ifb-separator-parent"><div class="uagb-ifb-separator"></div></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Missas:<br>Endereço:</p></div></div></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2022/04/mae-rainha-1024x1024.jpeg" alt="" class="wp-image-58 size-full" srcset="/wp-content/uploads/2022/04/mae-rainha-1024x1024.jpeg 1024w, /wp-content/uploads/2022/04/mae-rainha-300x300.jpeg 300w, /wp-content/uploads/2022/04/mae-rainha-150x150.jpeg 150w, /wp-content/uploads/2022/04/mae-rainha-768x768.jpeg 768w, /wp-content/uploads/2022/04/mae-rainha.jpeg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-902d76c0"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><span class="uagb-ifb-title-prefix">Comunidade</span><h3 class="uagb-ifb-title"><strong>Mãe Rainha</strong></h3></div><div class="uagb-ifb-separator-parent"><div class="uagb-ifb-separator"></div></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Missas:<br>Endereço:</p></div></div></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2022/04/03_gracas-1024x1024.jpeg" alt="" class="wp-image-59 size-full" srcset="/wp-content/uploads/2022/04/03_gracas-1024x1024.jpeg 1024w, /wp-content/uploads/2022/04/03_gracas-300x300.jpeg 300w, /wp-content/uploads/2022/04/03_gracas-150x150.jpeg 150w, /wp-content/uploads/2022/04/03_gracas-768x768.jpeg 768w, /wp-content/uploads/2022/04/03_gracas.jpeg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-6a6d603f"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><span class="uagb-ifb-title-prefix">Comunidade</span><h3 class="uagb-ifb-title"><strong>Nossa Senhora das Graças</strong></h3></div><div class="uagb-ifb-separator-parent"><div class="uagb-ifb-separator"></div></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Missas:<br>Endereço:</p></div></div></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2022/04/nossa_senhora_aparecida-1024x1024.jpg" alt="" class="wp-image-47 size-full" srcset="/wp-content/uploads/2022/04/nossa_senhora_aparecida-1024x1024.jpg 1024w, /wp-content/uploads/2022/04/nossa_senhora_aparecida-300x300.jpg 300w, /wp-content/uploads/2022/04/nossa_senhora_aparecida-150x150.jpg 150w, /wp-content/uploads/2022/04/nossa_senhora_aparecida-768x768.jpg 768w, /wp-content/uploads/2022/04/nossa_senhora_aparecida.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-f99b56ef"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><span class="uagb-ifb-title-prefix">Comunidade</span><h3 class="uagb-ifb-title"><strong>Nossa Senhora Aparecida</strong></h3></div><div class="uagb-ifb-separator-parent"><div class="uagb-ifb-separator"></div></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Missas:<br>Endereço:</p></div></div></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2022/04/santa_terezinha_do_menino_jesus-1024x1024.jpg" alt="" class="wp-image-55 size-full" srcset="/wp-content/uploads/2022/04/santa_terezinha_do_menino_jesus-1024x1024.jpg 1024w, /wp-content/uploads/2022/04/santa_terezinha_do_menino_jesus-300x300.jpg 300w, /wp-content/uploads/2022/04/santa_terezinha_do_menino_jesus-150x150.jpg 150w, /wp-content/uploads/2022/04/santa_terezinha_do_menino_jesus-768x768.jpg 768w, /wp-content/uploads/2022/04/santa_terezinha_do_menino_jesus.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-1d9bbc10"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><span class="uagb-ifb-title-prefix">Comunidade</span><h3 class="uagb-ifb-title">Santa Terezinha do Menino Jesus</h3></div><div class="uagb-ifb-separator-parent"><div class="uagb-ifb-separator"></div></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Missas:<br>Endereço:</p></div></div></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2022/04/santa_isabel_de_hungria_01-1024x1024.jpg" alt="" class="wp-image-54 size-full" srcset="/wp-content/uploads/2022/04/santa_isabel_de_hungria_01-1024x1024.jpg 1024w, /wp-content/uploads/2022/04/santa_isabel_de_hungria_01-300x300.jpg 300w, /wp-content/uploads/2022/04/santa_isabel_de_hungria_01-150x150.jpg 150w, /wp-content/uploads/2022/04/santa_isabel_de_hungria_01-768x768.jpg 768w, /wp-content/uploads/2022/04/santa_isabel_de_hungria_01.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-846dbb64"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><span class="uagb-ifb-title-prefix">Comunidade</span><h3 class="uagb-ifb-title">Santa Isabel de Hungria</h3></div><div class="uagb-ifb-separator-parent"><div class="uagb-ifb-separator"></div></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Missas:<br>Endereço:</p></div></div></div></div></div>
+</div></div>
+
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2022/04/santa_cruz-1024x1024.jpg" alt="" class="wp-image-53 size-full" srcset="/wp-content/uploads/2022/04/santa_cruz-1024x1024.jpg 1024w, /wp-content/uploads/2022/04/santa_cruz-300x300.jpg 300w, /wp-content/uploads/2022/04/santa_cruz-150x150.jpg 150w, /wp-content/uploads/2022/04/santa_cruz-768x768.jpg 768w, /wp-content/uploads/2022/04/santa_cruz.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-66397a14"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-title-wrap"><span class="uagb-ifb-title-prefix">Comunidade</span><h3 class="uagb-ifb-title">Santa Cruz</h3></div><div class="uagb-ifb-separator-parent"><div class="uagb-ifb-separator"></div></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc">Missas:<br>Endereço:</p></div></div></div></div></div>
+</div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Nossa história</title>
 		<link>/index.php/2022/04/18/nossa-historia/</link>
 		
@@ -111,29 +184,6 @@
 
 <article class="wp-block-uagb-content-timeline-child uagb-timeline__field uagb-timeline__field-wrap uagb-timeline-child-b55f80da-b826-4a83-b0bb-efc368eaaf43"><div class="uagb-timeline__widget uagb-timeline__left"><div class="uagb-timeline__marker out-view-uagb-timeline__icon"><span class="uagb-timeline__icon-new out-view-uagb-timeline__icon "><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm320-196c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM192 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM64 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"></path></svg></span></div><div class="uagb-timeline__day-new uagb-timeline__day-left"><div class="uagb-events-new"><div class="uagb-timeline__events-inner-new"><div class="uagb-timeline__date-hide uagb-timeline__date-inner"></div><div class="uagb-timeline-content"><div class="uagb-timeline__heading-text"><h4 class="uagb-timeline__heading">09/07/2021</h4></div><p class="uagb-timeline-desc-content">No dia nove de julho de dois mil e vinte e um, Dom Sérgio celebrou a Eucaristia e neste dia instituiu área pastoral Nossa Sra Rainha da Paz e nomeou o padre Josias como pároco pelos próximos seis anos.</p><div class="uagb-timeline__arrow"></div></div></div></div></div><div class="uagb-timeline__date-new"></div></div></article>
 </div><div class="uagb-timeline__line"><div class="uagb-timeline__line__inner"></div></div></div></div></div></div>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Nossas Comunidades</title>
-		<link>/index.php/2022/04/13/ola-mundo/</link>
-		
-		<dc:creator><![CDATA[ebw]]></dc:creator>
-		<pubDate>Wed, 13 Apr 2022 17:57:39 +0000</pubDate>
-				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[Em breve.
-
-Estamos trabalhando para trazer mais cada vez mais novidades para você!]]></description>
-										<content:encoded><![CDATA[
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-image uagb-block-8da28d1c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2d5aa8a9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<div class="wp-block-uagb-info-box uagb-infobox__outer-wrap uagb-block-fc3ea36c"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-image uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-image-icon-content uagb-ifb-imgicon-wrap"><div class="uagb-ifb-image"><div class="uagb-ifb-image-content"><img class="uagb-ifb-img-src" src="/wp-content/uploads/2022/04/logo-leaf-new.png" alt=""/></div></div></div><div class="uagb-ifb-title-wrap"><span class="uagb-ifb-title-prefix">Em Breve</span><h1 class="uagb-ifb-title">Estamos Trabalhando Para Você</h1></div><div class="uagb-ifb-separator-parent"><div class="uagb-ifb-separator"></div></div><div class="uagb-ifb-text-wrap"><p class="uagb-ifb-desc"><br>Agradecemos sua visita, nosso time da Pascom está trabalhando com todo empenho para preparar o melhor conteúdo possível. Logo logo teremos mais informações sobre nossa história e atividades. Pedimos ao Senhor que te abençoe sempre e esperamos nos ver em breve!</p></div></div></div></div></div>
-</div></section>
-</div></section>
 ]]></content:encoded>
 					
 		
